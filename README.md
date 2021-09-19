@@ -1,4 +1,4 @@
-# STKI-assignments
+# STKI assignments
 Repo for STKI assignments
 
 ### Members
